@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="30540547092313"
+    token="4956548088739329296" >
+
+    <task
+        name="javac"
+        duration="137" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="77" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/home/agamidev/Downloads/SocyleTask/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="30540547092313" >
+        <artifact
+            location="/home/agamidev/Downloads/SocyleTask/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

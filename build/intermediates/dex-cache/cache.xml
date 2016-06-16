@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/agamidev/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_6b2cf033f2aa0aedf12d1376f945c4e9d40c7114/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_787fda057aeb402e36f9b78179b6f901f8db49f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_83553a4373e7f8a1bbfca640690428df0a636a77/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/AndroidTools/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_a1625b4117f791f9f21ca9d8f9fcccd2670e02b5/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_299481709a864d8e8955804115da70ec07d1dbaa/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="626f4c3ae6bc04a628437d31240e83dd6db9531a">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1884c91e09e144687c3078c73145ec094147d67f/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_7452ecd9c3ce17e1906b75fe176cbfbb636ef75c/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="644af45944aaed32cb4e3e612503521987e5011a">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d7e0b45bee4355c56d3754643dd148ef1489aaf4/classes.dex" />
+    </item>
+    <item
+        jar="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/agamidev/Downloads/SocyleTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_f43fa9ceabf70ef01d4d4940eefedddb0ee32804/classes.dex" />
+    </item>
+
+</items>
